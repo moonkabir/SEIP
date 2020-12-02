@@ -96,4 +96,14 @@ td{
 }
 ul{
     padding-left: 0;
+    margin-bottom: 8px;
+}
+p{
+    margin-bottom: 8px;
+}
+h2{
+    padding-bottom: 10px;
+}
+.border-bottom{
+    border-bottom: 1px solid #fcb315 !important;
 }
