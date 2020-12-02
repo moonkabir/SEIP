@@ -87,3 +87,13 @@ li i.fa{
     font-size: 14px;
     color: #fcb315;
 }
+table{
+    border: 1px solid #fcb315;
+}
+td{
+    padding: 10px;
+    font-size: 14px;
+}
+ul{
+    padding-left: 0;
+}
